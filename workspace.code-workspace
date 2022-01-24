@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Icons",
+			"path": "C:\\Users\\Sidhant\\Downloads\\my-pepboard-main\\my-pepboard-main\\public\\Icons"
+		},
+		{
+			"name": "sidboardapp",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sidboardapp"
+	}
+}
